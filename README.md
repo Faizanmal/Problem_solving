@@ -103,7 +103,3 @@ The project includes over 10 different charts and tables:
 ## 📬 Contact
 
 Feel free to connect if you have questions or want to collaborate!
-
-```
-
-Let me know if you'd like this in `.md` format directly or need deployment instructions (e.g., running it on Jupyter, converting to `.py`, etc.).
